@@ -9,6 +9,8 @@ The following information is collected for all nurses with names containing the 
 * License Type
 * Expiration Date
 
+The first scrape only collects the first license of each nurse's name. The second scrape (denoted V2) collects every license under each nurse's name.
+
 This is my first time scraping a website. If you're interested, some of the free online resources I used to learn this are linked below.
 * [Scraping a JS-Rendered Page](http://stanford.edu/~mgorkove/cgi-bin/rpython_tutorials/Scraping_a_Webpage_Rendered_by_Javascript_Using_Python.php)
 * [Locating Elements with Selenium](https://selenium-python.readthedocs.io/locating-elements.html)
